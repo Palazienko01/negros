@@ -1,0 +1,54 @@
+C:\Users\user\source\repos\cyberbug2077\bin\Debug\cyberbug2077.exe.config
+C:\Users\user\source\repos\cyberbug2077\bin\Debug\cyberbug2077.exe
+C:\Users\user\source\repos\cyberbug2077\bin\Debug\cyberbug2077.pdb
+C:\Users\user\source\repos\cyberbug2077\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\user\source\repos\cyberbug2077\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.csprojAssemblyReference.cache
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.Form1.resources
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.Properties.Resources.resources
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.csproj.GenerateResource.cache
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.csproj.CopyComplete
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.exe
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.pdb
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.Form2.resources
+C:\Users\user\source\repos\cyberbug2077\obj\Debug\cyberbug2077.Form3.resources
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.csproj.AssemblyReference.cache
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.csproj.SuggestedBindingRedirects.cache
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.Form1.resources
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.Form2.resources
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.Form3.resources
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.csproj.GenerateResource.cache
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.exe
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.pdb
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\cyberbug2077.exe.config
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\cyberbug2077.exe
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\cyberbug2077.pdb
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\Newtonsoft.Json.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\RestSharp.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\RestSharp.Serializers.NewtonsoftJson.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Buffers.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Memory.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Text.Json.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.ValueTuple.dll
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\Newtonsoft.Json.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\RestSharp.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\RestSharp.Serializers.NewtonsoftJson.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Buffers.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Memory.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Text.Json.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\bin\Debug\System.ValueTuple.xml
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.Properties.Resources.resources
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.csproj.CoreCompileInputs.cache
+C:\Users\majko\OneDrive\Рабочий стол\PyPy\Moderation.py\VK\cyberbug2077\obj\Debug\cyberbug2077.csproj.CopyComplete
